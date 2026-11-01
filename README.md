@@ -15,13 +15,14 @@ This repository contains reference guides and documentation for the **MY-SMP Min
 |---|---|
 | [Help Guide](helps.md) | Server commands, features, and useful information |
 | [Land Claim Guide](claim.md) | Protect, manage, trust players, and trade land claims |
-| [Minion Guide](mns.md) | Crafting, unlock requirements, rewards, and minion usage |
-| [Pet Guide](pets.md) | Buying, taming methods, required food, and available pets |
+| ~~[Minion Guide](mns.md)~~ | ~~Crafting, unlock requirements, rewards, and minion usage (Disabled)~~ |
+| ~~[Pet Guide](pets.md)~~ | ~~Buying, taming methods, required food, and available pets (Disabled)~~ |
 | [Plus Shop Guide](plus_shop.md) | PlayerPoints, temporary Plus Tools, permanent equipment, prices, and usage |
 | [Teams Guide](teams.md) | Leader Commands, Member Commands, price for making a team |
 | [VotePoints Guide](vote_points.md) | VotePoints, the differences of value, Full 6 link to vote |
 
 ## Quick Links
+
 - **Website:** https://my-net.asia/
 - **Server Rules:** https://my-net/rules
 - **FAQ:** https://my-net.asia/faq
