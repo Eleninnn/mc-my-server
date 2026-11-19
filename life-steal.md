@@ -8,3 +8,6 @@ the victim must have 24 hours playtime in order to become one of the players kil
 the purpose of making these cooldowns is to prevent players using alternates accounts to gain player kills easily such as 30 minutes same victim cooldown, and 24 hours playtime, 
 <h3>Does the hearts have limit on how much players can have at a time?</h3>
 yes infact it is now reduced to 22, so, before you hunt for another player, make sure you withdraw your hearts first, the command for withdrawing hearts = "/withdrawheart (amount)" 
+
+<h3>What does the Lifesteal SMP serves as for players?</h3>
+there are pros and cons inside the Lifesteal SMP such as the cons that graves aren't enabled inside the Lifesteal SMP, and if you died a heart would be taken out of your own, and be placed onto the player that killed you, although it might not be a good place for players that are newbies to Minecraft, that's why it is separated from the main Fresh SMP, and the pros? they are really good for players that wants challenges, 
