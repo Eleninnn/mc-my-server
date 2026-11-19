@@ -6,6 +6,8 @@ This repository contains reference guides and documentation for the **MY-SMP Min
 
 - **Server:** MY-SMP
 - **Address:** `mc.my-net.asia:3333`
+- **Cracked Bedrock:** `3337`
+- **Premium Bedrock:** `3336`
 - **Location:** Malaysia
 - **Version:** `1.21.11 - 26.2`
 
